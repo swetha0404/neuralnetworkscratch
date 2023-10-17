@@ -14,7 +14,7 @@ You need to have numpy and pandas installed before running this code.
 
 Then number of hidden layers are fixed (2), but the number of neurons in the hidden layers, number of iterations, learning rate, and activation functions could be changed in the main function.
 
-Below are the meaning of symbols:
+Below are the meaning of variables in the code:
 
 1. **train** : training dataset - can be a link to a URL or a local file <br>
    $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ - you can assume the last column will the label column <br>
