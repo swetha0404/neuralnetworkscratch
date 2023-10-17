@@ -1,18 +1,18 @@
 # neuralnetworkscratch
 <h3> Python code for neural network from scratch for Abalone dataset. </h3>
 
+This Neural Network's preprocessor function is tailored for the Abalone Dataset from UCI Machine Learning Repository. It can be edited accordingly for different datasets.
 
 This is a starter code in Python 3.6 for a 2-hidden-layer neural network with three different options of activation functions.   
 - Sigmoid
 - Tanh
 - Relu
 
-The neural network is coded from scratch, without using any framework or ML libraries.    
+The neural network is coded from scratch, without using any framework or ML libraries. But data processing uses pandas, splitting dataset uses sklearn's train_test_split, and the matrix operations are performed using numpy.
 
 You need to have numpy and pandas installed before running this code.   
 
-Then number of hidden layers are fixed (2), but the number of neurons in each layer, number of iterations, learning rate, and activation functions 
-could be changed in the main function.
+Then number of hidden layers are fixed (2), but the number of neurons in the hidden layers, number of iterations, learning rate, and activation functions could be changed in the main function.
 
 Below are the meaning of symbols:
 
