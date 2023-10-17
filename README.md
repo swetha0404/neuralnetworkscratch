@@ -17,10 +17,10 @@ could be changed in the main function.
 Below are the meaning of symbols:
 
 1. **train** : training dataset - can be a link to a URL or a local file <br>
-   &ensp; &emsp; &ensp; &nbsp; &emsp; &ensp; &nbsp; &emsp; &ensp; &nbsp; &emsp; - you can assume the last column will the label column <br>
+   $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ - you can assume the last column will the label column <br>
     
 2. **test** : test dataset   - can be a link to a URL or a local file <br>
-   &ensp; &nbsp; &emsp; &ensp; &nbsp; &emsp; &ensp; &nbsp; &emsp;  - you can assume the last column will the label column <br>
+   $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ - you can assume the last column will the label column <br>
 3. **h1** : number of neurons in the first hidden layer <br>
 4. **h2** : number of neurons in the second hidden layer <br>
 5. **X** : vector of features for each instance <br>
