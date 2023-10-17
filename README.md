@@ -2,8 +2,10 @@
 <h3> Python code for neural network from scratch for Abalone dataset. </h3>
 
 
-*This is a starter code in Python 3.6 for a 2-hidden-layer neural network with three different options of activation functions.   
-- Sigmoid, Tanh and Relu
+This is a starter code in Python 3.6 for a 2-hidden-layer neural network with three different options of activation functions.   
+- Sigmoid
+- Tanh
+- Relu
 
 The neural network is coded from scratch, without using any framework or ML libraries.    
 
